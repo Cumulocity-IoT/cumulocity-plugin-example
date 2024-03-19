@@ -1,3 +1,5 @@
+> **Note**: This example is quite outdated and you should use the [official documentation](https://cumulocity.com/docs/web/gettingstarted/) and scaffold a new application based on the plugin example with `ng add @c8y/websdk`
+
 # Cumulocity Plugin Demo
 This is an inofficial demo showing how to build a simple plugin for the Cumulocity UI. 
 
